@@ -6,3 +6,5 @@ Makemore is language modeling according to the 2003 paper from Bengio. This is a
 Added automatic logging of training data (a graph) and a properties.txt that will save any parameters used by the program so one can replicate previous findings.
 
 I intend to use this as a template for the future.
+
+![alt text](https://github.com/Microwave-Microwave/AI-Journey/blob/main/4_makemore/models/45_graph.png "Graph")
