@@ -1,0 +1,56 @@
+file_path = names.txt
+block_size = 5
+data_set_distribution = (0.8, 0.9)
+seed = [42, 2147483647]
+mlp_struct = [27, 10, 200, 27]
+train_count = 300000
+batch_size = 256
+steps_o_steps = 6
+lr = 0.05
+lr_rate = 0.5
+config_path = config.txt
+runtime = 268.8115918636322s
+plt_count = 47
+----------------------------
+Generated Names
+junide.
+jakasia.
+presty.
+adina.
+shinleo.
+sasharie.
+kilania.
+yanileahaj.
+deyain.
+wirbons.
+jaiely.
+artellareuh.
+syfon.
+majan.
+nashiah.
+jaylyn.
+reaysen.
+cary.
+jamiya.
+jamiif.
+wynsleighasna.
+joimons.
+shadi.
+semitha.
+ili.
+reniel.
+that.
+rynos.
+aiish.
+dyri.
+mjean.
+cashudy.
+yaleste.
+crarl.
+jenh.
+adaita.
+malyna.
+alyan.
+iveav.
+porb.
+

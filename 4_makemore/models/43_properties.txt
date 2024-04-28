@@ -1,0 +1,56 @@
+file_path = names.txt
+block_size = 5
+data_set_distribution = (0.8, 0.9)
+seed = [42, 2147483647]
+mlp_struct = [27, 10, 200, 27]
+train_count = 300
+batch_size = 256
+steps_o_steps = 6
+lr = 0.05
+lr_rate = 0.5
+config_path = config.txt
+runtime = 1.8292171955108643s
+plt_count = 44
+----------------------------
+Generated Names
+janken.
+jakon.
+zhiia.
+aria.
+naiia.
+trcadrh.
+amaneen.
+sarseo.
+wflyflateey.
+bilana.
+amya.
+sarseo.
+yaint.
+zarley.
+thyans.
+mariiale.
+zeaal.
+aniyla.
+aavcag.
+caraea.
+adea.
+jamimljan.
+anrhl.
+astknrranie.
+zahlea.
+sfiuxs.
+gilini.
+airie.
+hareiale.
+rilieh.
+welii.
+jeery.
+bran.
+amyalea.
+antra.
+rilate.
+anohla.
+apleosdelr.
+auiila.
+wflyiibh.
+

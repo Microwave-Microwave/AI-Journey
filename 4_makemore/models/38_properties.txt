@@ -1,0 +1,13 @@
+file_path = names.txt
+block_size = 5
+data_set_distribution = (0.8, 0.9)
+seed = [42, 2147483647]
+mlp_struct = [27, 10, 200, 27]
+train_count = 3000
+batch_size = 256
+steps_o_steps = 6
+lr = 0.05
+lr_rate = 0.5
+config_path = config.txt
+runtime = 4.463535785675049s
+plt_count = 39

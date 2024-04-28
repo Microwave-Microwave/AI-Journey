@@ -1,0 +1,14 @@
+janrdh.janryoke.lezalena.jamiiy.leil.agrar.tensen.tayiani.eeaa.kwryslr.wrrslrjaso.eadla.tensnn.jearteorla.janryoke.jarvan.jcarlqijohi.karevarn.tenee.kimanhei.
+file_path = names.txt
+block_size = 5
+data_set_distribution = (0.8, 0.9)
+seed = [42, 2147483647]
+mlp_struct = [27, 10, 200, 27]
+train_count = 300
+batch_size = 256
+steps_o_steps = 6
+lr = 0.05
+lr_rate = 0.5
+config_path = config.txt
+runtime = 1.741344928741455s
+plt_count = 41
