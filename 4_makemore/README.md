@@ -9,7 +9,7 @@ I intend to use this as a template for the future.
 
 ![alt text](https://github.com/Microwave-Microwave/AI-Journey/blob/main/4_makemore/models/45_graph.png "Graph")
 
-**This is how the properties file looks like:**
+**This is how the properties file looks like. It has all the properties and 20 generated names.**
 
 file_path = names.txt
 block_size = 5
