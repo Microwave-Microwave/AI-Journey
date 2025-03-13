@@ -3,7 +3,8 @@
 The projects are listed in reverse order of when I worked on them, starting with the most recent.
 
 ## Makemore
-This is my most ambitious AI project yet. It showcases my ability to write well-documented code (I might have gone a little overboard with it 😅).
+This is my most ambitious AI project yet.
+"4_makemore/name_generator.py": showcases my ability to write well-documented code (I might have gone a little overboard with it 😅).
 
 Makemore is language modeling based on the 2003 paper by Bengio. I modified the code so it is scalable; use any parameter and it will work. The context window is 5 by default. I also added automatic logging of training data (a graph) and a properties.txt file that saves any parameters used by the program so one can replicate previous findings.
 
