@@ -1,4 +1,4 @@
-# This is a Showcase of My AI Journey
+# This is a Showcase of My AI Projects
 
 The projects are listed in reverse order of when I worked on them, starting with the most recent.
 
